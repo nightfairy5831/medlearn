@@ -1,0 +1,1 @@
+Oi! Construi um demo completo da sua plataforma de ensino medico — banco de questoes interativo, simulados com timer, trilhas com IA e dashboards analiticos, tudo funcionando: https://github.com/nightfairy5831/medlearn — adoraria saber o que achou.
